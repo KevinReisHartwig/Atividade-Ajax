@@ -20,5 +20,5 @@ Neste exercício você deverá:
 - Adaptar o projeto disponibilizado na plataforma para que os dados sejam preenchidos via requisição Ajax.
 - Usar o que aprendeu no módulo sobre try catch fetch API ou xmlHttpRequest.
 - Criar uma branch chamada exercicio_ajax no repositório do projeto (Github).
-- 4) Armazenar o código alterado lá.
-- 5) Enviar o link do repositório através da plataforma.
+- Armazenar o código alterado lá.
+- Enviar o link do repositório através da plataforma.
